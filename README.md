@@ -50,6 +50,16 @@ No observable demographic bias was identified in the model’s predictions.
 - SHAP
 - Matplotlib, Seaborn
 
+##  Code
+[View Jupyter Notebook](Lung_Cancer_Prediction.ipynb)
+
+##  Dataset
+[Lung Cancer Dataset](Lung_cancer_dataset.xls)
+
+##  Report
+[Project Report](Report.pdf)
+
+
 ##  Author
 Varshitha Danduboina  
 B.Tech Computer Science and Engineering (Final Year)
